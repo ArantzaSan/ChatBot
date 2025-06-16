@@ -6,8 +6,8 @@ import asyncio
 
 # --- Cargar Variables de Entorno ---
 load_dotenv()
-DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
-GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
+DISCORD_TOKEN = os.getenv('MTM4Mzk5ODA5Mjk1MjQ2OTYxNA.GBajm1.hWPfPhOa6Kb26lrG4VAOmtoM50PDFWtCOBKLu0')
+GEMINI_API_KEY = os.getenv('AIzaSyD5gykj-06qJ2a7g01U-ssUaajzkYTaHa4')
 
 # --- Configurar Google Gemini API ---
 if not GEMINI_API_KEY:
